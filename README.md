@@ -7,7 +7,7 @@ This repository contains code to train an AI agent to play Super Mario Bros usin
 - Python 3.7 or higher
 - [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3)
 
-## Usage
+## Usage 
 
 1. Install the required packages:
 
@@ -17,15 +17,10 @@ This repository contains code to train an AI agent to play Super Mario Bros usin
 !pip install torch torch torchvision torchaudio
 !pip install stable-baselines3
 
-## License
 
-This project is licensed under the MIT License.
-
-
-
-**Steps involved**
-    1. Set up the mario game environment
-    2. Process the gaming environment
-    3. Train the AI model
-    4. Test the model
+## Stps
+    - Set up the mario game environment
+    - Process the gaming environment
+    - Train the AI model
+    - Test the model
 
