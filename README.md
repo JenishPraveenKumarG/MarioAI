@@ -18,7 +18,8 @@ This repository contains code to train an AI agent to play Super Mario Bros usin
 !pip install stable-baselines3
 
 
-## Stps
+Steps involved
+
     - Set up the mario game environment
     - Process the gaming environment
     - Train the AI model
